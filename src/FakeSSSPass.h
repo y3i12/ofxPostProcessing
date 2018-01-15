@@ -33,6 +33,7 @@
 
 #include "RenderPass.h"
 #include "ofShader.h"
+#include "ofPoint.h"
 
 namespace itg
 {

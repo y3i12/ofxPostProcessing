@@ -31,6 +31,7 @@
  */
 #include "FakeSSSPass.h"
 #include "ofMain.h"
+#include "ofPoint.h"
 
 namespace itg
 {

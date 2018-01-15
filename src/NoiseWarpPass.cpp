@@ -30,6 +30,7 @@
  *
  */
 #include "NoiseWarpPass.h"
+#include "ofUtils.h"
 
 namespace itg
 {

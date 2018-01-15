@@ -30,6 +30,8 @@
  *
  */
 #include "LUTPass.h"
+#include "ofUtils.h"
+#include "ofLog.h"
 
 namespace itg
 {

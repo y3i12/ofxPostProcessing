@@ -33,6 +33,7 @@
 
 #include "RenderPass.h"
 #include "ofCamera.h"
+#include "ofAppRunner.h"
 
 namespace itg
 {

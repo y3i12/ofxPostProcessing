@@ -30,6 +30,7 @@
  *
  */
 #include "FxaaPass.h"
+#include <sstream>
 
 namespace itg
 {
@@ -98,7 +99,7 @@ namespace itg
                  
              }
         );
-        ostringstream oss;
+        std::ostringstream oss;
         oss << "#version 120" << endl;
         if (arb)
         {
